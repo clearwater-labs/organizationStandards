@@ -1,0 +1,11 @@
+site_name: Clearwater Labs Standards
+nav:
+    - Home: index.md
+    - About: about.md
+    - Code: code/code.md
+theme:
+  name: 'material'
+  palette:
+    primary: 'deep orange'
+    accent: 'indigo'
+  logo: 'images/cwl-logo.png'
